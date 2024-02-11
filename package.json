@@ -1,23 +1,24 @@
 {
-  "name": "alurageek-api",
+  "name": "fake-api",
   "version": "1.0.0",
-  "description": "Products for Alura Geek fake store api",
+  "description": "Micro Blog's fake api",
   "main": "index.js",
   "scripts": {
     "start": "node api/server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/SofiDevO/alurageek-API.git"
+    "url": "git+ssh://git@github.com:Rakodashi/fake-api.git"
   },
   "keywords": [
-    "alura",
-    "alurageek",
+    "micro",
+    "blog",
+    "micro-blog",
     "json-server",
     "javascript",
     "API"
   ],
-  "author": "Sofidev, contact@itssofi.dev",
+  "author": "Rakodashi, https://github.com/Rakodashi",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/SofiDevO/alurageek-API/issues"
