@@ -14,7 +14,7 @@
       "stardate": "20242.6",
       "url": "https://i.pinimg.com/736x/df/d1/13/dfd113eb14c518a71d2364075cb6746f.jpg",
       "body": "The USS Voyager (NCC-74656) was a 24th century Federation Intrepid-class starship operated by Starfleet from 2371 to 2378.\n\nOne of the most storied starships in the history of Starfleet, Voyager was famous for completing an unscheduled seven-year journey across the Delta Quadrant, the first successful exploration of that quadrant by the Federation, as well as numerous technological innovations and first contacts.\n\nIt was the first ship in a long line to bear the name Voyager with this registry. ",
-      "author": "Adm. Janeway"
+      "author": "Cdre. La Forge"
     },
     {
       "id": "47cb",
@@ -22,7 +22,7 @@
       "stardate": "20242.2",
       "url": "https://hips.hearstapps.com/hmg-prod/images/star-trek-jean-luc-picard3-1547237309.jpg",
       "body": "Jean-Luc Picard was a celebrated Starfleet officer, archaeologist, writer, historian, diplomat, and philanthropist, who served throughout much of the 24th century. The highlights of his career were centered around assignments as commanding officer of the Federation starships USS Stargazer, USS Enterprise-D, and the USS Enterprise-E. In these roles, Picard not only witnessed major turning points of recent galactic history, but played a key role in them also, from making first contact as captain of the Federation's flagship with no fewer than 27 alien species, including the Ferengi and the Borg. His successful contact with the Children of Tama resulted in his name being incorporated into the Tamarian language through the metaphor \"Picard and Dathon at El-Adrel\".\n\nHe also became the chief contact point with the Q Continuum, and served as Arbiter of Succession of the Klingon Empire, where he presided over the investiture of Klingon Chancellor Gowron. Picard would expose the Romulan Star Empire as backers of Gowron's chief rivals, later aiding a Romulan underground movement of dissidents to gain a toehold on the Romulan homeworld. He continued to serve as captain of the Enterprise-E, the sixth Federation starship to bear the name, until at least the early 2380s. (TNG: \"The Battle\", \"The Last Outpost\", \"Q Who\", \"Darmok\", \"Encounter at Farpoint\", and more, \"Redemption\", \"Redemption II\", \"Unification II\"; Star Trek: First Contact; Star Trek Nemesis; PIC: \"Remembrance\")\n\nFollowing his command of the Enterprise-E, he rose to the rank of admiral, he resigned from Starfleet for a time, after he felt that the organization had strayed from its ideals, before eventually rejoining as the Chancellor of Starfleet Academy.",
-      "author": "Cdre. La Forge"
+      "author": "Adm. Picard"
     },
     {
       "id": "d390",
@@ -38,7 +38,7 @@
       "stardate": "20242.6",
       "url": "https://3.bp.blogspot.com/-3TgalvPd2xo/Vz-O4YuRv0I/AAAAAAAANi8/3UEfUgzjuT0yWLarI9NDDyKQT8YJKY0jACLcB/s1600/Enterprise-D.jpg",
       "body": "The USS Enterprise (NCC-1701-D) was a Federation Galaxy-class starship operated by Starfleet, and the fifth Federation vessel to bear the name. The Enterprise served from 2363 to 2371 as the Federation flagship, under the command of Captain Jean-Luc Picard. Following the ship's destruction at Veridian III, it was rebuilt as a museum ship, and was briefly brought back into service to counter a Borg threat in 2401. ",
-      "author": "Adm. Picard"
+      "author": "Cdre. La Forge"
     },
     {
       "id": "03b0",
@@ -46,7 +46,7 @@
       "stardate": "20242.9",
       "url": "https://upload.wikimedia.org/wikipedia/en/9/92/BenSisko.jpg",
       "body": "Benjamin Lafayette \"Ben\" Sisko was a well-known Human male Starfleet commanding officer who was perhaps best-known for his seven-year assignment aboard starbase Deep Space 9 in the Bajor sector. After discovering the Bajoran wormhole, he became known to the Bajoran people as the Emissary of the Prophets. He played a critical role as a strategist and front line commander in the Dominion War.",
-      "author": "Cdre. La Forge"
+      "author": "Adm. Picard"
     },
     {
       "id": "76f1",
@@ -63,6 +63,12 @@
       "url": "https://i.pinimg.com/736x/72/26/e2/7226e2a20d38a654f8d8f8ad09556ef9.jpg",
       "body": "The USS Defiant (NX-74205) was a 24th century Federation Defiant-class starship operated by Starfleet. This was the prototype of the class and the second Federation ship known to bear the name Defiant.\n\nDesigned primarily for combat, the ship would serve with distinction in conflicts against the Klingon Empire and the Borg, as well as several key battles of the Dominion War before its destruction at the Second Battle of Chin'toka. ",
       "author": "Cdre. La Forge"
+    }
+  ],
+  "users": [
+    {
+      "user": "Rakodashi",
+      "pwd": "Ncc#1701"
     }
   ]
 }
